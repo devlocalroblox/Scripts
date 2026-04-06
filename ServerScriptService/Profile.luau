@@ -13,8 +13,8 @@
 
 	Quick usage:
 	
-	local ProfileStore = require(...)
-	local Store = ProfileStore.New("PlayerData", { Coins = 0 })
+	local Profile = require(...)
+	local Store = Profile.New("PlayerData", { Coins = 0 })
 
 	-- in PlayerAdded:
 	local session = Store:Load(player.UserId)
