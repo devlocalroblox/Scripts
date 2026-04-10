@@ -1,5 +1,5 @@
 --[[
-	ServerScriptService/Main
+	ServerScriptService/Blocks
 	Handles all server-side logic for my world building system project
 	Scripted by Local
 	
